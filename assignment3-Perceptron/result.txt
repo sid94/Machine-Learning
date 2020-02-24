@@ -1,0 +1,181 @@
+
+For eta value 0.01 and interation 20
+Emails classified correctly: 384/478
+Accuracy with stopwords: 80.3347%
+
+Filtered Emails classified correctly: 416/478
+Accuracy with filtered stopwords: 87.0293%
+
+
+-----------------------------------------------
+For eta value 0.0133 and interation 69.8206
+Emails classified correctly: 398/478
+Accuracy with stopwords: 83.2636%
+
+Filtered Emails classified correctly: 442/478
+Accuracy with filtered stopwords: 92.4686%
+
+
+-----------------------------------------------
+For eta value 0.0366 and interation 17.322
+Emails classified correctly: 397/478
+Accuracy with stopwords: 83.0544%
+
+Filtered Emails classified correctly: 437/478
+Accuracy with filtered stopwords: 91.4226%
+
+
+-----------------------------------------------
+For eta value 0.0277 and interation 69.4464
+Emails classified correctly: 368/478
+Accuracy with stopwords: 76.9874%
+
+Filtered Emails classified correctly: 443/478
+Accuracy with filtered stopwords: 92.6778%
+
+
+-----------------------------------------------
+For eta value 0.0425 and interation 72.7599
+Emails classified correctly: 395/478
+Accuracy with stopwords: 82.6360%
+
+Filtered Emails classified correctly: 449/478
+Accuracy with filtered stopwords: 93.9331%
+
+
+-----------------------------------------------
+For eta value 0.0228 and interation 26.2073
+Emails classified correctly: 370/478
+Accuracy with stopwords: 77.4059%
+
+Filtered Emails classified correctly: 444/478
+Accuracy with filtered stopwords: 92.8870%
+
+
+-----------------------------------------------
+For eta value 0.0055 and interation 56.3893
+Emails classified correctly: 409/478
+Accuracy with stopwords: 85.5649%
+
+Filtered Emails classified correctly: 450/478
+Accuracy with filtered stopwords: 94.1423%
+
+
+-----------------------------------------------
+For eta value 0.0268 and interation 99.1393
+Emails classified correctly: 403/478
+Accuracy with stopwords: 84.3096%
+
+Filtered Emails classified correctly: 448/478
+Accuracy with filtered stopwords: 93.7238%
+
+
+-----------------------------------------------
+For eta value 0.0254 and interation 15.0115
+Emails classified correctly: 398/478
+Accuracy with stopwords: 83.2636%
+
+Filtered Emails classified correctly: 444/478
+Accuracy with filtered stopwords: 92.8870%
+
+
+-----------------------------------------------
+For eta value 0.0171 and interation 65.7516
+Emails classified correctly: 373/478
+Accuracy with stopwords: 78.0335%
+
+Filtered Emails classified correctly: 438/478
+Accuracy with filtered stopwords: 91.6318%
+
+
+-----------------------------------------------
+For eta value 0.0361 and interation 59.8224
+Emails classified correctly: 389/478
+Accuracy with stopwords: 81.3808%
+
+Filtered Emails classified correctly: 448/478
+Accuracy with filtered stopwords: 93.7238%
+
+
+-----------------------------------------------
+For eta value 0.0425 and interation 33.2243
+Emails classified correctly: 395/478
+Accuracy with stopwords: 82.6360%
+
+Filtered Emails classified correctly: 449/478
+Accuracy with filtered stopwords: 93.9331%
+
+
+-----------------------------------------------
+For eta value 0.032 and interation 56.7775
+Emails classified correctly: 405/478
+Accuracy with stopwords: 84.7280%
+
+Filtered Emails classified correctly: 447/478
+Accuracy with filtered stopwords: 93.5146%
+
+
+-----------------------------------------------
+For eta value 0.0187 and interation 32.8772
+Emails classified correctly: 368/478
+Accuracy with stopwords: 76.9874%
+
+Filtered Emails classified correctly: 441/478
+Accuracy with filtered stopwords: 92.2594%
+
+
+-----------------------------------------------
+For eta value 0.0203 and interation 77.5838
+Emails classified correctly: 366/478
+Accuracy with stopwords: 76.5690%
+
+Filtered Emails classified correctly: 446/478
+Accuracy with filtered stopwords: 93.3054%
+
+
+-----------------------------------------------
+For eta value 0.029 and interation 64.2381
+Emails classified correctly: 389/478
+Accuracy with stopwords: 81.3808%
+
+Filtered Emails classified correctly: 451/478
+Accuracy with filtered stopwords: 94.3515%
+
+
+-----------------------------------------------
+For eta value 0.0128 and interation 87.1261
+Emails classified correctly: 400/478
+Accuracy with stopwords: 83.6820%
+
+Filtered Emails classified correctly: 439/478
+Accuracy with filtered stopwords: 91.8410%
+
+
+-----------------------------------------------
+For eta value 0.0437 and interation 55.6356
+Emails classified correctly: 398/478
+Accuracy with stopwords: 83.2636%
+
+Filtered Emails classified correctly: 448/478
+Accuracy with filtered stopwords: 93.7238%
+
+
+-----------------------------------------------
+For eta value 0.0452 and interation 58.0052
+Emails classified correctly: 398/478
+Accuracy with stopwords: 83.2636%
+
+Filtered Emails classified correctly: 448/478
+Accuracy with filtered stopwords: 93.7238%
+
+
+-----------------------------------------------
+For eta value 0.0032 and interation 69.2591
+Emails classified correctly: 413/478
+Accuracy with stopwords: 86.4017%
+
+Filtered Emails classified correctly: 442/478
+Accuracy with filtered stopwords: 92.4686%
+
+
+-----------------------------------------------

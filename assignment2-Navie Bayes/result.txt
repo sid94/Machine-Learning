@@ -1,0 +1,4 @@
+Navie Bayes Output file
+Accuracy with stopwordsAccuracy: 93.93305439330544
+Accuracy without stopwordsAccuracy: 94.56066945606695
+Accuracy on train dataAccuracy: 98.70410367170626
